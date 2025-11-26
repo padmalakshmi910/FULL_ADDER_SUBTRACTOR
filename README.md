@@ -42,7 +42,7 @@ CIRCUIT DIAGRAM
 **Truthtable**
 
 FULL ADDER
-![alt text](<Screenshot 2025-11-26 200540-1.png>)
+![alt text](<Screenshot 2025-11-26 183533.png>)
 
 FULL SUBTRACTOR
 ![alt text](<Screenshot 2025-11-26 183604.png>)
